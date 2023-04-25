@@ -1,0 +1,53 @@
+.balancecard {
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecfccb;
+  margin-right: 20px;
+  width: 30%;
+}
+.namecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 10px;
+}
+.balanceheading {
+  font-size: 20px;
+}
+.amount {
+  font-size: 30px;
+}
+.image {
+  width: 100px;
+}
+.moneyDetailssection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.incomecard {
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #cffafe;
+  margin-right: 20px;
+  width: 30%;
+}
+.expancescard {
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ede9fe;
+  margin-right: 20px;
+  width: 30%;
+}

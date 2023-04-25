@@ -1,0 +1,98 @@
+.bg-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.topSection {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+  margin-bottom: 10px;
+  height: 20%;
+  border-radius: 10px;
+}
+.paratopsection {
+  font-size: 20px;
+  font-weight: bold;
+}
+.spanelement {
+  color: #0b69ff;
+}
+.moneyDetailssection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.addtransactionsection {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.bottomsection {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px;
+  margin-top: 10px;
+}
+.addTransactionsection {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.transactionheading {
+  font-size: 30px;
+  font-weight: bold;
+}
+.addbutton {
+  background-color: blue;
+  border-radius: 3px;
+  padding: 5px;
+  color: white;
+}
+.inputtext {
+  width: 50%;
+  margin-top: 10px;
+}
+.label {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.selectinput {
+  width: 50%;
+  margin-top: 5px;
+}
+.buttonelement {
+  margin-top: 10px;
+}
+.optionelement {
+  background-color: brown;
+  color: white;
+}
+.title_amount_type {
+  border-radius: 10px;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+}
+.historysection {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.haedingsection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}

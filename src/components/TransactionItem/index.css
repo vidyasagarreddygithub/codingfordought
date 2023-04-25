@@ -1,0 +1,20 @@
+.resultcontainer {
+  display: flex;
+  flex-direction: column;
+}
+.line {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+.resultsection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.deletebutton {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
